@@ -32,95 +32,95 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
 <translation id="1324107359134968521">QuikClik Browser needs Bluetooth access to explore 
  Bluetooth devices. <ph name="IDS_SERIAL_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="1330562121671411446">Detect language</translation>
-<translation id="1330742950061766891">Use Chromium recommended browser settings</translation>
-<translation id="1342274909142618978">Also delete data from Chromium (<ph name="URL" />)</translation>
+<translation id="1330742950061766891">Use QuikClik Browser recommended browser settings</translation>
+<translation id="1342274909142618978">Also delete data from QuikClik Browser (<ph name="URL" />)</translation>
 <translation id="1345251407431278948">Pinned! You can access image search again from the new button on the toolbar</translation>
 <translation id="1356661055722410047">New! You can translate both text and images on your screen</translation>
 <translation id="1383876407941801731">Search</translation>
-<translation id="1397530502368084401">&amp;Manage Chromium profiles</translation>
+<translation id="1397530502368084401">&amp;Manage QuikClik Browser profiles</translation>
 <translation id="1404026649028693342">Always show AI Mode</translation>
 <translation id="141901961143729572">Share your thoughts</translation>
-<translation id="1465192221147974788">To share your window, allow screen recording for Chromium in System Settings.</translation>
-<translation id="1478370723027452770">Get help with Chrome for testing</translation>
+<translation id="1465192221147974788">To share your window, allow screen recording for QuikClik Browser in System Settings.</translation>
+<translation id="1478370723027452770">Get help with QuikClik Browser for testing</translation>
 <translation id="1497802159252041924">Install error: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1518627427551567882">This page is protected</translation>
-<translation id="1524282610922162960">Share a Chromium tab</translation>
-<translation id="154404805518949443">Sign in to Chromium</translation>
+<translation id="1524282610922162960">Share a QuikClik Browser tab</translation>
+<translation id="154404805518949443">Sign in to QuikClik Browser</translation>
 <translation id="1547469039832541117">Ends the highlighted task.</translation>
-<translation id="1553461853655228091">Chromium needs permission to access your camera to create a 3D map of your surroundings</translation>
-<translation id="1555494096857516577">{NUM_EXTENSIONS,plural, =1{This extension is no longer supported. Chromium recommends that you remove it.}other{These extensions are no longer supported. Chromium recommends that you remove them.}}</translation>
-<translation id="1562320819937089394">Pin Chromium</translation>
-<translation id="1574377791422810894">Chromium's safety tools</translation>
-<translation id="1594928384848033697">Chromium wants to delete your Password Manager data. Type in your Windows password to allow this.</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Your administrator requires that you relaunch Chromium to apply an update}=1{Your administrator requires that you relaunch Chromium to apply an update. Your Incognito window won't reopen.}other{Your administrator requires that you relaunch Chromium to apply an update. Your # Incognito windows won't reopen.}}</translation>
-<translation id="1625909126243026060">Review key privacy and security controls in Chromium</translation>
+<translation id="1553461853655228091">QuikClik Browser needs permission to access your camera to create a 3D map of your surroundings</translation>
+<translation id="1555494096857516577">{NUM_EXTENSIONS,plural, =1{This extension is no longer supported. QuikClik Browser recommends that you remove it.}other{These extensions are no longer supported. QuikClik Browser recommends that you remove them.}}</translation>
+<translation id="1562320819937089394">Pin QuikClik Browser</translation>
+<translation id="1574377791422810894">QuikClik Browser's safety tools</translation>
+<translation id="1594928384848033697">QuikClik Browser wants to delete your Password Manager data. Type in your Windows password to allow this.</translation>
+<translation id="1607715478322902680">{COUNT,plural, =0{Your administrator requires that you relaunch QuikClik Browser to apply an update}=1{Your administrator requires that you relaunch QuikClik Browser to apply an update. Your Incognito window won't reopen.}other{Your administrator requires that you relaunch QuikClik Browser to apply an update. Your # Incognito windows won't reopen.}}</translation>
+<translation id="1625909126243026060">Review key privacy and security controls in QuikClik Browser</translation>
 <translation id="1640672724030957280">Downloading ...</translation>
 <translation id="1680687534629375545">Ask image search about this page</translation>
 <translation id="1709772298389099340">Provides elevated privileges for <ph name="BROWSER_NAME" />.</translation>
-<translation id="1715127912119967311">To help improve these features, Chromium sends your interactions with them to Google. This data may be read, processed and annotated by human reviewers.</translation>
+<translation id="1715127912119967311">To help improve these features, QuikClik Browser sends your interactions with them to Google. This data may be read, processed and annotated by human reviewers.</translation>
 <translation id="1722488837206509557">This will allow you to select from available devices and display content on them.</translation>
-<translation id="1733725117201708356">Chromium will soon delete browsing data</translation>
-<translation id="1736443181683099871">Chromium will try to upgrade navigations to HTTPS</translation>
-<translation id="1736662517232558588">Cleared Chromium Data</translation>
-<translation id="1745121272106313518">Chromium will restart in <ph name="REMAINING_TIME" /></translation>
-<translation id="1749104137266986751">When HTTPS isn't available, Chromium will use an insecure connection without warning you</translation>
-<translation id="1774152462503052664">Let Chromium run in the background</translation>
-<translation id="1779356040007214683">To make Chromium safer, we disabled some extensions that aren't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> and may have been added without your knowledge.</translation>
-<translation id="1808667845054772817">Reinstall Chromium</translation>
-<translation id="1820835682567584003">Chromium is trying to <ph name="AUTHENTICATION_PURPOSE" /></translation>
-<translation id="183031085822326697">Next time you open Chromium on your <ph name="DEVICE_TYPE" />, you'll see a prompt to use Google Password Manager.</translation>
+<translation id="1733725117201708356">QuikClik Browser will soon delete browsing data</translation>
+<translation id="1736443181683099871">QuikClik Browser will try to upgrade navigations to HTTPS</translation>
+<translation id="1736662517232558588">Cleared QuikClik Browser Data</translation>
+<translation id="1745121272106313518">QuikClik Browser will restart in <ph name="REMAINING_TIME" /></translation>
+<translation id="1749104137266986751">When HTTPS isn't available, QuikClik Browser will use an insecure connection without warning you</translation>
+<translation id="1774152462503052664">Let QuikClik Browser run in the background</translation>
+<translation id="1779356040007214683">To make QuikClik Browser safer, we disabled some extensions that aren't listed in the <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> and may have been added without your knowledge.</translation>
+<translation id="1808667845054772817">Reinstall QuikClik Browser</translation>
+<translation id="1820835682567584003">QuikClik Browser is trying to <ph name="AUTHENTICATION_PURPOSE" /></translation>
+<translation id="183031085822326697">Next time you open QuikClik Browser on your <ph name="DEVICE_TYPE" />, you'll see a prompt to use Google Password Manager.</translation>
 <translation id="1838374766361614909">Clear search</translation>
-<translation id="18552579716432081">To delete browsing data from this device only, while keeping it in your Google Account, <ph name="BEGIN_LINK" />sign out of Chromium<ph name="END_LINK" />.</translation>
-<translation id="1857749206890802997">Download Chromium on your phone to open or create new tab groups on the go.</translation>
-<translation id="185970820835152459">You can manage your signed-in Google Accounts. Your Google Accounts are used for Chromium browser, Play Store, Gmail and more. If you want to add an account for someone else, like a family member, add a new person to your <ph name="DEVICE_TYPE" /> instead. <ph name="LINK_BEGIN" />Learn more<ph name="LINK_END" /></translation>
+<translation id="18552579716432081">To delete browsing data from this device only, while keeping it in your Google Account, <ph name="BEGIN_LINK" />sign out of QuikClik Browser<ph name="END_LINK" />.</translation>
+<translation id="1857749206890802997">Download QuikClik Browser on your phone to open or create new tab groups on the go.</translation>
+<translation id="185970820835152459">You can manage your signed-in Google Accounts. Your Google Accounts are used for QuikClik Browser, Play Store, Gmail and more. If you want to add an account for someone else, like a family member, add a new person to your <ph name="DEVICE_TYPE" /> instead. <ph name="LINK_BEGIN" />Learn more<ph name="LINK_END" /></translation>
 <translation id="1862852878885210965">Search with image search</translation>
 <translation id="1880677175115548835">Select text</translation>
-<translation id="1881322772814446296">You are signing in with a managed account and giving its administrator control over your Chromium profile. Your Chromium data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME" />. You will be able to delete this data via the Google Accounts Dashboard, but you will not be able to associate this data with another account. You can optionally create a new profile to keep your existing Chromium data separate. <ph name="LEARN_MORE" /></translation>
-<translation id="1896836275755235458">Chromium conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates. <ph name="BEGIN_LINK" />Learn more about Energy Saver<ph name="END_LINK" /></translation>
+<translation id="1881322772814446296">You are signing in with a managed account and giving its administrator control over your QuikClik Browser profile. Your QuikClik Browser data, such as your apps, bookmarks, history, passwords and other settings will become permanently tied to <ph name="USER_NAME" />. You will be able to delete this data via the Google Accounts Dashboard, but you will not be able to associate this data with another account. You can optionally create a new profile to keep your existing QuikClik Browser data separate. <ph name="LEARN_MORE" /></translation>
+<translation id="1896836275755235458">QuikClik Browser conserves battery power by limiting background activity and visual effects, such as smooth scrolling and video frame rates. <ph name="BEGIN_LINK" />Learn more about Energy Saver<ph name="END_LINK" /></translation>
 <translation id="1898804291554630487">Ask about this page</translation>
-<translation id="1900969832270057921">Chromium updater service</translation>
-<translation id="1911763535808217981">By turning this off, you can sign in to Google sites such as Gmail, without signing in to Chromium</translation>
-<translation id="1929939181775079593">Chromium is unresponsive. Relaunch now?</translation>
-<translation id="1933341829955786215">Your organisation, <ph name="MANAGER" />, requires you to sign in to Chromium</translation>
+<translation id="1900969832270057921">QuikClik Browser updater service</translation>
+<translation id="1911763535808217981">By turning this off, you can sign in to Google sites such as Gmail, without signing in to QuikClik Browser</translation>
+<translation id="1929939181775079593">QuikClik Browser is unresponsive. Relaunch now?</translation>
+<translation id="1933341829955786215">Your organisation, <ph name="MANAGER" />, requires you to sign in to QuikClik Browser</translation>
 <translation id="193439633299369377">Chromium OS needs to be restarted to apply the update.</translation>
-<translation id="1951406923938785464">Chromium blocked this download because the file type isn't commonly downloaded and it may be dangerous</translation>
+<translation id="1951406923938785464">QuikClik Browser blocked this download because the file type isn't commonly downloaded and it may be dangerous</translation>
 <translation id="1953553007165777902">Downloading… <ph name="MINUTE" /> minute(s) remaining</translation>
-<translation id="1965068424387304464">Chromium tip: Save passwords</translation>
-<translation id="1966382378801805537">Chromium cannot determine or set the default browser</translation>
-<translation id="1990262977744080398">Learn why Chromium blocks some files, opens in new tab</translation>
-<translation id="1999715455684970349">Keeps your Chromium software up to date. If this service is disabled or stopped, your Chromium software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no Chromium software using it.</translation>
-<translation id="2008474315282236005">This will delete 1 item from this device. To retrieve your data later, sign in to Chromium as <ph name="USER_EMAIL" />.</translation>
+<translation id="1965068424387304464">QuikClik Browser tip: Save passwords</translation>
+<translation id="1966382378801805537">QuikClik Browser cannot determine or set the default browser</translation>
+<translation id="1990262977744080398">Learn why QuikClik Browser blocks some files, opens in new tab</translation>
+<translation id="1999715455684970349">Keeps your QuikClik Browser software up to date. If this service is disabled or stopped, your QuikClik Browser software will not be kept up to date, meaning security vulnerabilities that may arise cannot be fixed and features may not work. This service uninstalls itself when there is no QuikClik Browser software using it.</translation>
+<translation id="2008474315282236005">This will delete 1 item from this device. To retrieve your data later, sign in to QuikClik Browser as <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Installation failed. Please try again.</translation>
-<translation id="2020032459870799438">To check if your other passwords are safe from data breaches and other security issues, <ph name="BEGIN_LINK" />sign in to Chromium<ph name="END_LINK" />.</translation>
+<translation id="2020032459870799438">To check if your other passwords are safe from data breaches and other security issues, <ph name="BEGIN_LINK" />sign in to QuikClik Browser<ph name="END_LINK" />.</translation>
 <translation id="2039417478970545937">Settings.</translation>
-<translation id="2049376729098081731">Choose whether to include Chromium history for more personalised experiences in Google services</translation>
-<translation id="2064856577282482477">Click the Customise Chromium button on the new tab page to give Chromium a new look</translation>
+<translation id="2049376729098081731">Choose whether to include QuikClik Browser history for more personalised experiences in Google services</translation>
+<translation id="2064856577282482477">Click the Customise QuikClik Browser button on the new tab page to give QuikClik Browser a new look</translation>
 <translation id="2066690553719545730">Always show AI Mode</translation>
-<translation id="2086476982681781442">Chromium blocked this download because the file is deceptive and may make unexpected changes to your device</translation>
+<translation id="2086476982681781442">QuikClik Browser blocked this download because the file is deceptive and may make unexpected changes to your device</translation>
 <translation id="208726765006323911">You'll see a prompt to try <ph name="FEATURE_NAME" /> next time you open Chromium iOS.</translation>
-<translation id="2099452623287920103">Your passwords and other Chromium data that you saved in your Google Account will be removed from this device. To use them again in Chromium, sign back in.</translation>
-<translation id="2120965832000301375">{COUNT,plural, =1{Your organisation deletes browsing data automatically when Chromium isn't used for one minute. This could include history, autofill and downloads. Your tabs will stay open.}other{Your organisation deletes browsing data automatically when Chromium isn't used for # minutes. This could include history, autofill and downloads. Your tabs will stay open.}}</translation>
+<translation id="2099452623287920103">Your passwords and other QuikClik Browser data that you saved in your Google Account will be removed from this device. To use them again in QuikClik Browser, sign back in.</translation>
+<translation id="2120965832000301375">{COUNT,plural, =1{Your organisation deletes browsing data automatically when QuikClik Browser isn't used for one minute. This could include history, autofill and downloads. Your tabs will stay open.}other{Your organisation deletes browsing data automatically when QuikClik Browser isn't used for # minutes. This could include history, autofill and downloads. Your tabs will stay open.}}</translation>
 <translation id="2126108037660393668">The downloaded file failed verification.</translation>
 <translation id="2137162749895930932">Close translate screen</translation>
-<translation id="215352261310130060">Chromium blocked this download because the site isn't using a secure connection and the file may have been tampered with</translation>
+<translation id="215352261310130060">QuikClik Browser blocked this download because the site isn't using a secure connection and the file may have been tampered with</translation>
 <translation id="2170098639895543546">Select anything on page</translation>
-<translation id="2174178932569897599">Customise Chromium</translation>
+<translation id="2174178932569897599">Customise QuikClik Browser</translation>
 <translation id="2174917724755363426">Installation is not complete. Are you sure that you want to cancel?</translation>
-<translation id="2185166961232948079">Chromium – Network sign-in – <ph name="PAGE_TITLE" /></translation>
+<translation id="2185166961232948079">QuikClik Browser – Network sign-in – <ph name="PAGE_TITLE" /></translation>
 <translation id="2190166659037789668">Update check error: <ph name="UPDATE_CHECK_ERROR" />.</translation>
-<translation id="2199210295479376551">Remove account from Chromium</translation>
-<translation id="2210502920229141283">Stay safer on the go with Enhanced Safe Browsing on Chromium for iOS</translation>
-<translation id="2210682093923538346">Dangerous site. Chromium removed notifications.</translation>
+<translation id="2199210295479376551">Remove account from QuikClik Browser</translation>
+<translation id="2210502920229141283">Stay safer on the go with Enhanced Safe Browsing on QuikClik Browser for iOS</translation>
+<translation id="2210682093923538346">Dangerous site. QuikClik Browser removed notifications.</translation>
 <translation id="2236949375853147973">My Activity</translation>
-<translation id="2238130810669087193">To get your addresses and more on all your devices, sign in to Chromium. This address will be saved in your Google Account after you sign in.</translation>
-<translation id="2241627712206172106">If you share a computer, friends and family can browse separately and set up Chromium just the way they want.</translation>
+<translation id="2238130810669087193">To get your addresses and more on all your devices, sign in to QuikClik Browser. This address will be saved in your Google Account after you sign in.</translation>
+<translation id="2241627712206172106">If you share a computer, friends and family can browse separately and set up QuikClik Browser just the way they want.</translation>
 <translation id="2283803047247799269">Search this tab with image search</translation>
-<translation id="2287771843518581140">{NUM_TABS,plural, =1{Chromium recommends pausing the tab that's slowing your browser}other{Chromium recommends pausing the tabs that are slowing your browser}}</translation>
+<translation id="2287771843518581140">{NUM_TABS,plural, =1{QuikClik Browser recommends pausing the tab that's slowing your browser}other{QuikClik Browser recommends pausing the tabs that are slowing your browser}}</translation>
 <translation id="2307973900865360088">Keep in Dock</translation>
-<translation id="2313870531055795960">Checks URLs with a list of unsafe sites stored in Chromium. If a site tries to steal your password, or when you download a harmful file, Chromium may also send URLs, including bits of page content, to Safe Browsing.</translation>
+<translation id="2313870531055795960">Checks URLs with a list of unsafe sites stored in QuikClik Browser. If a site tries to steal your password, or when you download a harmful file, QuikClik Browser may also send URLs, including bits of page content, to Safe Browsing.</translation>
 <translation id="2332076562712130931">This action will:
         <ph name="LINE_BREAKS" />
-          • Reset some Chromium settings and Chromium shortcuts
+          • Reset some QuikClik Browser settings and QuikClik Browser shortcuts
           <ph name="LINE_BREAK" />
           • Disable extensions
           <ph name="LINE_BREAK" />
