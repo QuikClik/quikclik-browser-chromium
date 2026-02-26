@@ -127,52 +127,52 @@ Some features may be unavailable and changes to preferences won't be saved.</tra
           • Delete cookies and other temporary site data
           <ph name="LINE_BREAKS" />
           Bookmarks, history and saved passwords won't be affected.</translation>
-<translation id="2343156876103232566">To send a number from here to your Android phone, sign in to Chromium on both devices.</translation>
+<translation id="2343156876103232566">To send a number from here to your Android phone, sign in to QuikClik Browser on both devices.</translation>
 <translation id="2356070529366658676">Ask</translation>
 <translation id="2359808026110333948">Continue</translation>
-<translation id="2361918034042471035">The extension '<ph name="EXTENSION_NAME" />' wants you to sign in to Chromium</translation>
-<translation id="236943522426971115">Disable Chromium running in background for apps</translation>
-<translation id="2374216753258219393">To use this extension as <ph name="USER_EMAIL_ADDRESS" />, sign in to Chromium.</translation>
+<translation id="2361918034042471035">The extension '<ph name="EXTENSION_NAME" />' wants you to sign in to QuikClik Browser</translation>
+<translation id="236943522426971115">Disable QuikClik Browser running in background for apps</translation>
+<translation id="2374216753258219393">To use this extension as <ph name="USER_EMAIL_ADDRESS" />, sign in to QuikClik Browser.</translation>
 <translation id="2384373936468275798">Chromium OS could not sync your data because your account sign-in details are out of date.</translation>
-<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{1 HID device was being accessed by one or more Chromium extensions}=1{1 HID device is being accessed by one or more Chromium extensions}other{# HID devices are being accessed by one or more Chromium extensions}}</translation>
-<translation id="2401032172288869980">Chromium needs camera and microphone permissions for this site</translation>
+<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{1 HID device was being accessed by one or more QuikClik Browser extensions}=1{1 HID device is being accessed by one or more Chromium extensions}other{# HID devices are being accessed by one or more Chromium extensions}}</translation>
+<translation id="2401032172288869980">QuikClik Browser needs camera and microphone permissions for this site</translation>
 <translation id="2403703063067034158">Startup error: Another instance of setup is currently running, please try again later.</translation>
-<translation id="2440750600860946460">With <ph name="BEGIN_LINK" />tools from Chromium<ph name="END_LINK" />, you can browse safely and stay in control</translation>
+<translation id="2440750600860946460">With <ph name="BEGIN_LINK" />tools from QuikClik Browser<ph name="END_LINK" />, you can browse safely and stay in control</translation>
 <translation id="2451727308784734061">Use your shortcut to quickly get to the Password Manager. You can move your shortcut to your computer's home screen or app launcher.</translation>
-<translation id="2478295928299953161">Chromium will soon close</translation>
-<translation id="2483889755041906834">In Chromium</translation>
+<translation id="2478295928299953161">QuikClik Browser will soon close</translation>
+<translation id="2483889755041906834">In QuikClik Browser</translation>
 <translation id="2485422356828889247">Uninstall</translation>
 <translation id="2513154137948333830">Reboot required: <ph name="INSTALL_SUCCESS" /></translation>
 <translation id="2542968102051442371">Select text with image search</translation>
-<translation id="2554739539410784893">Chromium is trying to replace existing passwords. Type in your Windows password to allow this.</translation>
-<translation id="2560420686485554789">Chromium needs storage access to download files</translation>
-<translation id="2572494885440352020">Chromium Helper</translation>
+<translation id="2554739539410784893">QuikClik Browser is trying to replace existing passwords. Type in your Windows password to allow this.</translation>
+<translation id="2560420686485554789">QuikClik Browser needs storage access to download files</translation>
+<translation id="2572494885440352020">QuikClik Browser Helper</translation>
 <translation id="2575822587468774919">Select anything to search with image search</translation>
-<translation id="2576118232315942160">To get your passwords and more on all your devices, sign in to Chromium</translation>
-<translation id="2592940277904433508">Continue using Chromium</translation>
+<translation id="2576118232315942160">To get your passwords and more on all your devices, sign in to QuikClik Browser</translation>
+<translation id="2592940277904433508">Continue using QuikClik Browser</translation>
 <translation id="259935314519650377">Failed to cache the downloaded installer. Error: <ph name="UNPACK_CACHING_ERROR_CODE" />.</translation>
 <translation id="2620436844016719705">System</translation>
 <translation id="2629740064077610681">Your organisation can see and manage browsing data, such as your bookmarks, history and passwords. It can't see browsing data in other Chromium profiles</translation>
-<translation id="2635452620547538388">Verify that it's you to use and save Chromium data in your account, <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="2637732208198500597">{COUNT,plural, =0{Advanced Protection requires that you relaunch Chromium to apply an update}=1{Advanced Protection requires that you relaunch Chromium to apply an update. Your Incognito window won't reopen.}other{Advanced Protection requires that you relaunch Chromium to apply an update. Your # Incognito windows won't reopen.}}</translation>
-<translation id="2648074677641340862">An operating system error occurred during installation. Please download Chromium again.</translation>
-<translation id="2661879430930417727">If you share a device, friends and family can browse separately and set up Chromium just the way they want</translation>
-<translation id="2711502716910134313">Chromium Tab</translation>
-<translation id="2718390899429598676">For added security, Chromium will encrypt your data.</translation>
-<translation id="2721354645805494590">To remove your Google Account from Chromium, sign out</translation>
-<translation id="2722636413143664436">To get your passwords, bookmarks and more on all your devices, sign in to Chromium</translation>
+<translation id="2635452620547538388">Verify that it's you to use and save QuikClik Browser data in your account, <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="2637732208198500597">{COUNT,plural, =0{Advanced Protection requires that you relaunch QuikClik Browser to apply an update}=1{Advanced Protection requires that you relaunch Chromium to apply an update. Your Incognito window won't reopen.}other{Advanced Protection requires that you relaunch Chromium to apply an update. Your # Incognito windows won't reopen.}}</translation>
+<translation id="2648074677641340862">An operating system error occurred during installation. Please download QuikClik Browser again.</translation>
+<translation id="2661879430930417727">If you share a device, friends and family can browse separately and set up QuikClik Browser just the way they want</translation>
+<translation id="2711502716910134313">QuikClik Browser Tab</translation>
+<translation id="2718390899429598676">For added security, QuikClik Browser will encrypt your data.</translation>
+<translation id="2721354645805494590">To remove your Google Account from QuikClik Browser, sign out</translation>
+<translation id="2722636413143664436">To get your passwords, bookmarks and more on all your devices, sign in to QuikClik Browser</translation>
 <translation id="2738871930057338499">Unable to connect to the Internet. HTTP 403 Forbidden. Please check your proxy configuration.</translation>
 <translation id="2753623023919742414">Click to search</translation>
-<translation id="2768103863314748511">Set Chromium as your default PDF viewer</translation>
-<translation id="277828055419948999">Chromium can autofill difficult fields that standard autofill might miss</translation>
-<translation id="2785438272836277133">This extension contains malware and is unsafe. Remove it from Chromium so that it can no longer see and change your data on sites that you visit, including your personal info.</translation>
+<translation id="2768103863314748511">Set QuikClik Browser as your default PDF viewer</translation>
+<translation id="277828055419948999">QuikClik Browser can autofill difficult fields that standard autofill might miss</translation>
+<translation id="2785438272836277133">This extension contains malware and is unsafe. Remove it from QuikClik Browser so that it can no longer see and change your data on sites that you visit, including your personal info.</translation>
 <translation id="2799223571221894425">Relaunch</translation>
-<translation id="2803971713792056305">Your Chromium</translation>
+<translation id="2803971713792056305">Your QuikClik Browser</translation>
 <translation id="2816462166102338036">Search this video with image search</translation>
 <translation id="2841525013647267359">Translate from</translation>
 <translation id="2846251086934905009">Install error: The installer did not complete. The installation has been aborted.</translation>
-<translation id="2847479871509788944">Remove from Chromium...</translation>
-<translation id="2850691299438350830">Keeps you safe on Chromium and may be used to improve your security in other Google apps when you are signed in</translation>
+<translation id="2847479871509788944">Remove from QuikClik Browser...</translation>
+<translation id="2850691299438350830">Keeps you safe on QuikClik Browser and may be used to improve your security in other Google apps when you are signed in</translation>
 <translation id="2885378588091291677">Task Manager</translation>
 <translation id="2910007522516064972">About &amp;Chromium</translation>
 <translation id="2915996080311180594">Restart later</translation>
